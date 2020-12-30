@@ -2,6 +2,7 @@
 
 
 This is one page application where we can display products or menus dynamically using javaScript to populate a page and also setup some filtering functions.
+(followed tutorial)
 
 
 ![GitHub Logo](/Show_menu_all.png)
